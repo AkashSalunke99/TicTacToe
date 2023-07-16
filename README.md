@@ -18,3 +18,5 @@ The game handles the following cases:
 
 UI: 
 * The 'X' shape drawn in the color RED, and the 'O' shape drawn in the color blue.
+
+UI Video: https://drive.google.com/file/d/1O5jTsftg82m2OH2NubuCuG-fYqrY8dTI
